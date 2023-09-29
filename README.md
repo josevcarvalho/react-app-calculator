@@ -1,8 +1,9 @@
-# Calculadora
+# react-app-calculator
+
 ## Project introduce
 
 ```
-git clone https://github.com/josevcarvalho/Calculadora.git  
+git clone https://github.com/josevcarvalho/react-app-calculator.git  
 ```
 
 To start the development server
